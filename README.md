@@ -2,7 +2,7 @@
 <h3 align="center">I am passionate about programming and love solving challenges.</h3>
 <h4 align="center">I’m currently a 3rd year student of Computer Science at Strathmore University, set to graduate in 2024.</h4>
 
-I have experience in the following:<br><br>Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript<br><br>Procedural and Object Oriented programming with Java, JavaFX, C++ and PHP<br><br>System Analysis and Design<br><br>Software Engineering and UI/UX design with Figma and AdobeXD<br><br>Data Structures and Algorithms in Java<br><br>Data Warehousing, Data Visualization, and Database Management using MySQL, PhpMyAdmin, Python, Talend, and Tableau<br><br>👨‍💻 This link is to my portfolio website -> https://calvin-sendawula-portfolio-website.webflow.io/<br><br>📫 How to reach me calvin.sendawula@strathmore.edu
+I have experience in the following:<br><br>Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript<br><br>Procedural and Object Oriented programming with Java, JavaFX, C++ and PHP<br><br>System Analysis and Design<br><br>Software Engineering and UI/UX design with Figma and AdobeXD<br><br>Data Structures and Algorithms in Java<br><br>Data Warehousing, Data Visualization, and Database Management using MySQL, PhpMyAdmin, Python, Talend, and Tableau<br><br>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cindybsydney" alt="cindybsydney" /></a> </p>
@@ -24,7 +24,7 @@ I have experience in the following:<br><br>Internet Application Programming with
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cindy-sydney-8412771a4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cindy-sydney-8412771a4&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=calvinsendawula&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cindy-sydney-8412771a4&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=calvinsendawula&icon=2&color=1)](https://visitcount.itsvg.in)
