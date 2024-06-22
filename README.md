@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cindy</h1>
-<h3 align="center">I am passionate about programming and love solving challenges.</h3>
-<h4 align="center">I’m currently a student of Computer Science at Strathmore University, set to graduate in 2024.</h4>
+<h3 align="center">I am passionate about programming and I love solving challenges.</h3>
+<h4 align="center">I’m a recent graduate of Computer Science from Strathmore University for the class of 2024.</h4>
 
 I have experience in the following:<br><br>Internet Application Programming with PHP, HTML5, CSS, Bootstrap 5, and JavaScript<br><br>Procedural and Object Oriented Programming with Java, C++ and PHP<br><br>System Analysis and Design<br><br>Software Engineering and UI/UX design with Figma <br><br>Data Structures and Algorithms in Java<br><br>Data Warehousing, Data Visualization, and Database Management using MySQL, PhpMyAdmin, Python, Talend, and Tableau<br><br>
 
