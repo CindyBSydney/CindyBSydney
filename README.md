@@ -13,10 +13,3 @@ I have experience in the following:<br><br>Internet Application Programming with
 <p align="left">
 <a href="https://linkedin.com/in/cindy-sydney-8412771a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cindy-sydney-8412771a4" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cindybsydney&show_icons=true&locale=en" alt="cindybsydney" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cindybsydney&show_icons=true&locale=en&layout=compact" alt="cindybsydney" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cindybsydney&show_icons=true&locale=en" alt="cindybsydney" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cindybsydney&" alt="cindybsydney" /></p>
